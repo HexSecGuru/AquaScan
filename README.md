@@ -42,7 +42,7 @@ This Arduino-based project uses an **HC-SR04 ultrasonic sensor** to monitor the 
 
 ## Code
 
-```cpp
+-- cpp
 #define TRIG_PIN 23
 #define ECHO_PIN 22
 #define BUZZER_PIN 21
@@ -84,7 +84,7 @@ void loop() {
 
   delay(1000);  // Update every second
 }
-
+--cp
 
 ---
 

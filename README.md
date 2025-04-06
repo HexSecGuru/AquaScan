@@ -1,7 +1,3 @@
-Here you go — the full contents of your README.md file ready to paste into your project:
-
-
----
 
 # Ultrasonic Water Level Alert System
 
@@ -137,7 +133,4 @@ HexSec — @codejoaker13
 Cybersecurity Researcher & DIY Creator
 Follow on GitHub: HexSecGuru
 
----
-
-Let me know if you want me to generate a schematic diagram or a preview badge for GitHub!
 
